@@ -1,5 +1,4 @@
 # David Lindahl
-![Python](https://img.shields.io/badge/python-3.10-blue)
 BSc student (AI & Data) at the Technical University of Denmark. I work on ML pipelines, LLM evaluation, and data-centric NLP.
 
 ## At a glance
