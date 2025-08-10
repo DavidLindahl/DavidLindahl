@@ -51,7 +51,7 @@ Regression modeling of solar panel energy output based on environmental factors.
 
 ---
 
-## � Relevant Coursework
+##  Relevant Coursework
 Mathematics (calculus, linear algebra, differential equations), Programming, Statistics, Signals & Data RL & Control.
 
 ---
