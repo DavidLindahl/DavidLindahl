@@ -96,13 +96,3 @@ Mathematics 1a/1b/2 (calculus, linear algebra, differential equations), Programm
 ## CV & contact
 - **CV (PDF):** https://drive.google.com/file/d/1blq9qrxx9F6Wrg_0xTZOCqs7nXC9jP1H/view?usp=sharing
 - **Email:** david.lindah@gmail.com
-
-
-
-
-
-NEW
-
-
-Here’s the markdown clipout you can copy-paste directly into your forked repo’s README.md:
-
