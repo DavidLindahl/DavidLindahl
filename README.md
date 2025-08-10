@@ -14,7 +14,7 @@ BSc student (AI & Data) at the Technical University of Denmark. I work on ML pip
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [danish-edu-llm-classifier](https://github.com/DavidLindahl/danish-edu-llm-classifier)
 Multilingual classification of Danish educational texts, with a custom data pipeline and LLM evaluation framework.  
@@ -51,12 +51,12 @@ Regression modeling of solar panel energy output based on environmental factors.
 
 ---
 
-## 🎓 Relevant Coursework
+## � Relevant Coursework
 Mathematics (calculus, linear algebra, differential equations), Programming, Statistics, Signals & Data RL & Control.
 
 ---
 
-## 📌 Pinned Projects Quick Links
+##  Pinned Projects Quick Links
 - [Danish Educational LLM Classifier](https://github.com/DavidLindahl/danish-edu-llm-classifier)
 - [Kidney Stone Urine Analysis](https://github.com/DavidLindahl/kidney-stone-urine-analysis)
 - [BayesOpt Playground](https://github.com/DavidLindahl/bayesopt-playground)
